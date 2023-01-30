@@ -4,4 +4,4 @@ Sử dụng thư viện pygame để tạo giao diện người dùng. Chương 
 1. Sử dụng công thức toán học tính khoách cách để xác định được loại label của cách điểm trong màn hình của các điểm trên màn hình 
 2. Sử dụng thư viện có sẵn sklearn để chạy thuật toán kmeans tự động phân chia các nhóm, điểm dữ liệu
 
-#
+Bài toán dimension reduction (giảm số liệu chiều dữ liệu) cũng sử dụng thư viện sklearn để giảm chiều dữ liệu của ảnh (giảm dung lượng của ảnh)
